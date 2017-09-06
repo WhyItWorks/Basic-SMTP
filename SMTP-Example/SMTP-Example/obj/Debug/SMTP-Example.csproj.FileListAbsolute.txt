@@ -1,0 +1,14 @@
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\bin\Debug\SMTP-Example.exe.config
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\bin\Debug\SMTP-Example.exe
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\bin\Debug\SMTP-Example.pdb
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP-Example.csprojResolveAssemblyReference.cache
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\MainWindow.g.cs
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\App.g.cs
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP-Example_MarkupCompile.cache
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP-Example_MarkupCompile.lref
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\MainWindow.baml
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP-Example.g.resources
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP_Example.Properties.Resources.resources
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP-Example.csproj.GenerateResource.Cache
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP-Example.exe
+c:\users\thebu\documents\visual studio 2017\Projects\SMTP-Example\SMTP-Example\obj\Debug\SMTP-Example.pdb

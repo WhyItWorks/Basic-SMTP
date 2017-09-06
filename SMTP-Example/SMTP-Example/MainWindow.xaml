@@ -1,0 +1,27 @@
+﻿<Window x:Class="SMTP_Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SMTP_Example"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="From&#xD;&#xA;" HorizontalAlignment="Left" Margin="35,63,0,0" VerticalAlignment="Top" Width="43" Height="30"/>
+        <Label Content="To&#xA;" HorizontalAlignment="Left" Margin="35,93,0,0" VerticalAlignment="Top" Width="43" Height="30"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="35,128,0,0" VerticalAlignment="Top"/>
+       
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Margin="78,64,0,0" VerticalAlignment="Top" Width="401" Height="29">
+            <TextBox x:Name="txtFrom"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Margin="78,93,0,0" VerticalAlignment="Top" Width="401" Height="29">
+            <TextBox Name="txtTo" />
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Margin="78,122,0,0" VerticalAlignment="Top" Width="401" Height="115">
+            <TextBox TextWrapping="Wrap" AcceptsReturn="True" x:Name="txtBody"/>
+        </Border>
+        
+        <Button x:Name="Send" Content="Send" HorizontalAlignment="Left" Margin="223,262,0,0" VerticalAlignment="Top" Width="75" Click="Send_Click"/>
+
+    </Grid>
+</Window>
